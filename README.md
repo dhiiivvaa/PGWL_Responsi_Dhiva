@@ -1,5 +1,5 @@
 
-## Dhiva's Guide to Greek Mythology History
+## DHIVA'S GUIDE TO GREEK MYTOLOGY HISTORY
 
 Dhiva's Guide to Greek Mythology History adalah WebGIS yang berisi peta interaktif yang memudahkan pengguna untuk menemukan situs peninggalan dewa dan dewi Yunani serta informasi terkini mengenai mitologi Yunani, lengkap dengan deskripsi mendalam dan visualisasi menarik. Melalui tombol CRUD (Create, Read, Update, Delete) pengguna dapat menambahkan, membaca, memperbarui, dan menghapus lokasi sejarah Yunani secara interaktif dan mudah.
 
